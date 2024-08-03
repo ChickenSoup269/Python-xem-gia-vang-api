@@ -2,8 +2,7 @@
 ## API Reference
 
 #### THÔNG TIN WEB (not me)
- http://api.btmc.vn/api/BTMCAPI/getpricebtmc?key=3kd8ub1llcg9t45hnoh8hmn7t5kc2v](https://btmc.vn/thong-tin/tai-lieu-api/api-gia-vang-17784.html
-
+https://btmc.vn/thong-tin/tai-lieu-api/api-gia-vang-17784.html
 #### API
  http://api.btmc.vn/api/BTMCAPI/getpricebtmc?key=3kd8ub1llcg9t45hnoh8hmn7t5kc2v
 
