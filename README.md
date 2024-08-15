@@ -25,10 +25,6 @@ https://btmc.vn/thong-tin/tai-lieu-api/api-gia-vang-17784.html
 ![App Screenshot](https://github.com/ChickenSoup269/Python-gi-v-ng/blob/main/Screenshot%202024-08-03%20022846.png)
 
 
-## How to run
-
-|Terminnal           | Cách chạy                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Terminal bên ngoài | python3 "tên file".py |
-| Trong VS code |Thì chỉ cần run python in terminal 
+## Pip
+`pip install tabulate`
 
