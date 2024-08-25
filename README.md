@@ -27,4 +27,5 @@ https://btmc.vn/thong-tin/tai-lieu-api/api-gia-vang-17784.html
 
 ## Pip
 `pip install tabulate`
+`pip install colorama`
 
